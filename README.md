@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Rovan 👋
 Business Analyst | SRCC '25 | Delhi
 
 I work at the intersection of financial research, data analysis, and automation.
